@@ -1,0 +1,50 @@
+[
+  {
+    "domain": "pameran.lanngood.xyz",
+    "cf_record_id": "126cb1c257a5a149d34a292d65c89074",
+    "delete_at": 1779584924918,
+    "nginx_deleted_config": "deployflow-deleted-pameran-lanngood-xyz"
+  },
+  {
+    "domain": "lanntv.lanngood.xyz",
+    "cf_record_id": "4cd8cfde3fdd9199f8548f54765b7a9f",
+    "delete_at": 1779589022552,
+    "nginx_deleted_config": "deployflow-deleted-lanntv-lanngood-xyz"
+  },
+  {
+    "domain": "lanntv.lanngood.xyz",
+    "cf_record_id": null,
+    "delete_at": 1779608310579,
+    "nginx_deleted_config": "deployflow-deleted-lanntv-lanngood-xyz"
+  },
+  {
+    "domain": "tv.lanngood.xyz",
+    "cf_record_id": "c2b9bba8b9b7b2068816f34e33d5aac6",
+    "delete_at": 1779608808361,
+    "nginx_deleted_config": "deployflow-deleted-tv-lanngood-xyz"
+  },
+  {
+    "domain": "downloader.lanngood.xyz",
+    "cf_record_id": "fd3ef6e94bb3d7da82dac7c3331a7c71",
+    "delete_at": 1779625744657,
+    "nginx_deleted_config": "deployflow-deleted-downloader-lanngood-xyz"
+  },
+  {
+    "domain": "ttstickpremim.lanngood.xyz",
+    "cf_record_id": "f43c98cb4cd27fc8b37e3e6789b5e7f9",
+    "delete_at": 1779627448334,
+    "nginx_deleted_config": "deployflow-deleted-ttstickpremim-lanngood-xyz"
+  },
+  {
+    "domain": "ttstick.lanngood.xyz",
+    "cf_record_id": "bdb8a04993e3251ceeccf604f5518ae6",
+    "delete_at": 1779627877872,
+    "nginx_deleted_config": "deployflow-deleted-ttstick-lanngood-xyz"
+  },
+  {
+    "domain": "tify.lanngood.xyz",
+    "cf_record_id": "c3d0d53184876c703eb03a454bce72b2",
+    "delete_at": 1779660594847,
+    "nginx_deleted_config": "deployflow-deleted-tify-lanngood-xyz"
+  }
+]
